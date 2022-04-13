@@ -22,7 +22,7 @@
 ## Notes-ptBR: Plugins principais do BigWigs
 ## Notes-esES: Plugins del núcleo de BigWigs.
 ## Notes-esMX: Plugins del núcleo de BigWigs.
-## Version: v239.3
+## Version: v240
 
 ## LoadOnDemand: 1
 ## Dependencies: BigWigs, BigWigs_Core

@@ -22,7 +22,7 @@
 ## Notes-ruRU: BigWigs Sepulcher of the First Ones Modules
 ## Notes-zhCN: BigWigs 初诞者圣墓模块。
 ## Notes-zhTW: BigWigs 首創者聖塚模組。
-## Version: v239.3
+## Version: v240
 
 ## LoadOnDemand: 1
 ## Dependencies: BigWigs

@@ -2,6 +2,7 @@
 ..\FrameXML\UI.xsd">
 
 <Script file="common.enUS.lua"/>
+<Script file="common.uaUA.lua"/>
 <Script file="common.deDE.lua"/>
 <Script file="common.frFR.lua"/>
 <Script file="common.koKR.lua"/>
